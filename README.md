@@ -8,7 +8,7 @@
   </a> 
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/Y8VYvoXu2fIAAAAj/mimibubu.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
 
 - 🔭 I’m currently working on **OOP & DSA core concepts**
 
