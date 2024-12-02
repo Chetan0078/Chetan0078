@@ -1,44 +1,40 @@
 <h1 align="center">Hi 👋, I'm Chetan Bairagi</h1>
-<h3 align="center">A passionate Tech Enthusiast Student from India</h3>
+<h3 align="center" style="color: #6c5ce7;">A passionate Tech Enthusiast Student from India</h3>
 
+---
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Chetan0078&theme=gruvbox&margin-w=15" alt="Chetan0078 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Chetan0078&theme=onestar&margin-w=15" alt="Chetan0078 trophies" />
   </a> 
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
 
+### 👨‍💻 About Me:
 - 🔭 I’m currently working on **OOP & DSA core concepts**
-
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++**
-
 - 💬 Ask me about **Tech Learning**
-
-- 📫 How to reach me **vaishanvchetan701@gmail.com**
-
-- 📄 Know about my experiences [View My Resume](.............)
+- 📫 How to reach me: **vaishanvchetan701@gmail.com**
+- 📄 Know about my experiences: [**View My Resume**](.............)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #f39c12;">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/chetan-bairagi-b9505827b/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chetan Bairagi's LinkedIn" height="30" width="40" />
-    LinkedIn
+  <a href="https://www.linkedin.com/in/chetan-bairagi-b9505827b/" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <span style="color: #0077B5;">LinkedIn</span>
   </a>
-</p>
-<p align="left">
   <a href="https://www.geeksforgeeks.org/user/vaishnavco8rj/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Chetan Bairagi on GeeksforGeeks" height="30" width="40" />
-    GeeksforGeeks
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+    <span style="color: #008F2E;">GeeksForGeeks</span>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #e74c3c;">⚙️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -71,14 +67,16 @@
 
 ---
 
+<h3 align="center" style="color: #16a085;">📊 Stats and Activity:</h3>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan0078&show_icons=true&locale=en&layout=compact&theme=radical" alt="Chetan Bairagi's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan0078&show_icons=true&locale=en&layout=compact&theme=radical" alt="Chetan's Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=Chetan0078&theme=radical&hide_border=true" alt="Chetan Bairagi's GitHub Streak Stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Chetan0078&theme=radical&hide_border=true" alt="Chetan's GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chetan0078&show_icons=true&locale=en&theme=radical" alt="Chetan Bairagi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chetan0078&show_icons=true&locale=en&theme=radical" alt="Chetan's GitHub Stats" />
 </p>
